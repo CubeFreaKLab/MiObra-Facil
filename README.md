@@ -2,11 +2,8 @@
 
   <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400">
 
-    <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400">
-
   <h1>Mi Obra Fácil</h1>
 
-      <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400" style="background-color: white; padding: 30px; border-radius: 10px;">
 
   <p>Aplicación móvil para calcular presupuestos de construcción en Bolivia</p>
 
@@ -22,9 +19,7 @@
 
 ## Descripción
 
-    # Mi Obra Fácil
-
-Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
+Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C 07 de junio 2025.
 
   Precios actualizados según catálogo P&C Enlace 07 (Junio 2025)
 
