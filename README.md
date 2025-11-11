@@ -1,226 +1,449 @@
-# Mi Obra Fácil# 🏗️ Mi Obra Fácil# 🏗️ Mi Obra Fácil
+<div align="center"># Mi Obra Fácil# 🏗️ Mi Obra Fácil# 🏗️ Mi Obra Fácil
 
+  <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400" style="background-color: white; padding: 30px; border-radius: 10px;">
 
+  
 
-Aplicación móvil para calcular presupuestos de construcción en Bolivia, con precios actualizados según catálogo P&C Enlace 07 (Junio 2025).
+  # Mi Obra Fácil
 
+  Aplicación móvil para calcular presupuestos de construcción en Bolivia, con precios actualizados según catálogo P&C Enlace 07 (Junio 2025).
 
+  **Aplicación móvil para calcular presupuestos de construcción en Bolivia**
 
-## DescripciónAplicación móvil para calcular presupuestos de construcción en Bolivia, con precios actualizados según catálogo P&C Enlace 07 (Junio 2025).<div align="center">
+  
 
+  Precios actualizados según catálogo P&C Enlace 07 (Junio 2025)
 
+</div>## DescripciónAplicación móvil para calcular presupuestos de construcción en Bolivia, con precios actualizados según catálogo P&C Enlace 07 (Junio 2025).<div align="center">
 
-**Mi Obra Fácil** es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
 
-
-
-## Características Principales## ✨ Características![Mi Obra Fácil](assets/images/logo.png)
-
-
-
-- **Catálogo completo**: 97 partidas organizadas en 15 categorías
-
-- **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
-
-- **Almacenamiento local**: Base de datos Hive NoSQL para persistencia offline- 📊 **Catálogo completo**: 97 partidas organizadas en 15 categorías (trabajos preliminares, movimiento de tierras, obras gruesas, obras finas, carpintería)**Aplicación profesional para presupuestos de construcción en Bolivia**
-
-- **Exportación PDF**: Genera presupuestos profesionales con logotipo personalizado
-
-- **Dashboard estadístico**: Visualiza métricas de tus proyectos- 🗺️ **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
-
-- **Calculadora integrada**: Herramienta rápida para cálculos
-
-- **Material Design 3**: Interfaz moderna con paleta de colores naranja y azul- 💾 **Almacenamiento local**: Todos tus proyectos guardados en tu dispositivo con Hive[![Flutter Version](https://img.shields.io/badge/Flutter-3.24.4-02569B?logo=flutter)](https://flutter.dev)
-
-
-
-## Capturas de Pantalla- 📄 **Exportación PDF**: Genera presupuestos profesionales con tu logotipo[![Dart Version](https://img.shields.io/badge/Dart-3.5.4-0175C2?logo=dart)](https://dart.dev)
-
-
-
-_Próximamente_- 📈 **Dashboard**: Visualiza estadísticas de tus proyectos[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-
-
-## Instalación- 🧮 **Calculadora integrada**: Herramienta rápida para cálculos básicos[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)](https://www.android.com)
-
-
-
-### Opción 1: APK Precompilado- 🎨 **Diseño moderno**: Material Design 3 con colores naranja (#FF6B35) y azul (#004E89)
-
-
-
-1. Descarga el APK desde [Releases](../../releases)</div>
-
-2. Habilita instalación de fuentes desconocidas en tu dispositivo
-
-3. Instala el APK descargado
-
-4. Abre la aplicación
-
-## 📋 Descripción
-
-### Opción 2: Compilar desde Código Fuente
-
-## 🚀 Instalación en tu Celular
-
-#### Requisitos Previos
-
-**Mi Obra Fácil** es una aplicación móvil diseñada para profesionales de la construcción en Bolivia que permite:
-
-- Flutter SDK 3.35.7 o superior
-
-- Android SDK con NDK 27.0.12077973### Opción 1: Instalar APK Directamente (Recomendado)
-
-- Android Studio o VS Code
-
-- Dispositivo Android físico o emulador- ✅ Crear presupuestos de obra detallados
-
-
-
-#### Pasos de Instalación1. **Descarga el APK** desde la sección [Releases](../../releases)- 📊 Visualizar estadísticas y análisis de costos
-
-
-
-```bash2. **Activa instalación de fuentes desconocidas**:- 💾 Guardar proyectos localmente con persistencia
-
-# Clonar repositorio
-
-git clone https://github.com/Oxidizerhack/MiObra-Facil.git   - Ajustes → Seguridad → Habilitar "Fuentes desconocidas"- 📄 Exportar presupuestos en formato PDF
-
-cd MiObra-Facil
-
-   - O cuando intentes instalar, Android te pedirá permiso- 🌍 Calcular precios según región (La Paz, Cochabamba, Santa Cruz)
-
-# Instalar dependencias
-
-flutter pub get3. **Instala el APK** desde tus descargas- 🏗️ Gestionar 26 tipos de trabajos en 3 categorías
-
-
-
-# Verificar dispositivo conectado4. **¡Listo!** Abre la app y comienza a crear presupuestos
-
-flutter devices
 
 ---
 
-# Ejecutar aplicación
 
-flutter run### Opción 2: Compilar desde el Código Fuente
 
-```
+## Descripción**Mi Obra Fácil** es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
 
-## ✨ Características Principales
 
-#### Compilar APK de Producción
 
-#### Requisitos
+Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
+
+
+
+## Características Principales## Características Principales## ✨ Características![Mi Obra Fácil](assets/images/logo.png)
+
+
+
+- **Gestión de Proyectos**: Crea y administra múltiples proyectos de construcción con detalles completos
+
+- **Catálogo P&C Completo**: 97 partidas organizadas en 15 categorías según el estándar P&C Enlace 07
+
+- **Precios Diferenciados**: Cotizaciones específicas para La Paz, Cochabamba y Santa Cruz- **Catálogo completo**: 97 partidas organizadas en 15 categorías
+
+- **Calculadora Integrada**: Herramienta de cálculo incorporada para estimaciones rápidas
+
+- **Dashboard Estadístico**: Visualización de estadísticas de proyectos con totales y promedios- **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
+
+- **Exportación a PDF**: Genera presupuestos profesionales con encabezado corporativo
+
+- **Persistencia Local**: Base de datos Hive para almacenamiento offline- **Almacenamiento local**: Base de datos Hive NoSQL para persistencia offline- 📊 **Catálogo completo**: 97 partidas organizadas en 15 categorías (trabajos preliminares, movimiento de tierras, obras gruesas, obras finas, carpintería)**Aplicación profesional para presupuestos de construcción en Bolivia**
+
+
+
+## Instalación- **Exportación PDF**: Genera presupuestos profesionales con logotipo personalizado
+
+
+
+### Opción 1: Descarga Directa (Recomendado)- **Dashboard estadístico**: Visualiza métricas de tus proyectos- 🗺️ **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
+
+
+
+1. Ve a la sección [Releases](https://github.com/CubeFreaKLab/MiObra-Facil/releases)- **Calculadora integrada**: Herramienta rápida para cálculos
+
+2. Descarga el archivo APK de la versión más reciente
+
+3. Instala en tu dispositivo Android (permite instalación desde fuentes desconocidas)- **Material Design 3**: Interfaz moderna con paleta de colores naranja y azul- 💾 **Almacenamiento local**: Todos tus proyectos guardados en tu dispositivo con Hive[![Flutter Version](https://img.shields.io/badge/Flutter-3.24.4-02569B?logo=flutter)](https://flutter.dev)
+
+
+
+Para instrucciones detalladas, consulta [INSTALACION.md](INSTALACION.md)
+
+
+
+### Opción 2: Compilación desde Código Fuente## Capturas de Pantalla- 📄 **Exportación PDF**: Genera presupuestos profesionales con tu logotipo[![Dart Version](https://img.shields.io/badge/Dart-3.5.4-0175C2?logo=dart)](https://dart.dev)
+
+
+
+**Requisitos:**
+
+- Flutter SDK 3.35.7 o superior
+
+- Dart SDK 3.9.2 o superior_Próximamente_- 📈 **Dashboard**: Visualiza estadísticas de tus proyectos[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+- Android Studio con SDK 36.0.0
+
+- Android NDK 27.0.12077973
+
+
+
+**Pasos:**## Instalación- 🧮 **Calculadora integrada**: Herramienta rápida para cálculos básicos[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)](https://www.android.com)
+
+
 
 ```bash
 
-# Generar APK release### 🎯 Gestión de Proyectos
+# Clonar repositorio
 
-flutter build apk --release
+git clone https://github.com/CubeFreaKLab/MiObra-Facil.git### Opción 1: APK Precompilado- 🎨 **Diseño moderno**: Material Design 3 con colores naranja (#FF6B35) y azul (#004E89)
 
-- Flutter SDK 3.35.7 o superior- **CRUD Completo**: Crear, leer, actualizar y eliminar proyectos
-
-# El APK se encontrará en:
-
-# build/app/outputs/flutter-apk/app-release.apk- Android Studio o VS Code- **Información Detallada**: Nombre del proyecto, cliente, región
-
-```
-
-- Android SDK con NDK 27.0.12077973- **Partidas Personalizables**: Agregar y eliminar trabajos específicos
-
-Alternativamente, puede usar los scripts proporcionados:
-
-- Dispositivo Android o emulador- **Cálculo Automático**: Totales por categoría y proyecto
-
-**Windows:**
-
-```cmd
-
-build-release.bat
-
-```#### Pasos### 📊 Dashboard Analítico
+cd MiObra-Facil
 
 
 
-**Linux/macOS:**- **Estadísticas Generales**: Total de proyectos, costos totales
+# Instalar dependencias
 
-```bash
+flutter pub get1. Descarga el APK desde [Releases](../../releases)</div>
 
-./build-release.sh```bash- **Gráficos por Categoría**: Obra Gruesa, Obra Fina, Instalaciones
+
+
+# Ejecutar aplicación2. Habilita instalación de fuentes desconocidas en tu dispositivo
+
+flutter run
+
+3. Instala el APK descargado
+
+# Compilar APK de release (Windows)
+
+build-release.bat4. Abre la aplicación
+
+
+
+# Compilar APK de release (Linux/macOS)## 📋 Descripción
+
+chmod +x build-release.sh
+
+./build-release.sh### Opción 2: Compilar desde Código Fuente
 
 ```
 
-# 1. Clona el repositorio- **Desglose Regional**: Análisis de costos por departamento
+## 🚀 Instalación en tu Celular
 
-## Tecnologías
+El APK se genera en: `build/app/outputs/flutter-apk/app-release.apk`
 
-git clone https://github.com/Oxidizerhack/MiObra-Facil.git- **Top 3 Proyectos**: Ranking de proyectos más costosos
+#### Requisitos Previos
 
-### Framework y Lenguaje
+## Tecnologías Utilizadas
 
-- **Flutter** 3.35.7 - Framework multiplataformacd MiObra-Facil
+**Mi Obra Fácil** es una aplicación móvil diseñada para profesionales de la construcción en Bolivia que permite:
 
-- **Dart** 3.9.2 - Lenguaje de programación
+**Framework y Lenguaje:**
 
-### 💾 Persistencia de Datos
+- Flutter 3.35.7- Flutter SDK 3.35.7 o superior
+
+- Dart 3.9.2
+
+- Material Design 3- Android SDK con NDK 27.0.12077973### Opción 1: Instalar APK Directamente (Recomendado)
+
+
+
+**Gestión de Estado:**- Android Studio o VS Code
+
+- provider 6.0.5
+
+- Dispositivo Android físico o emulador- ✅ Crear presupuestos de obra detallados
+
+**Persistencia:**
+
+- hive 2.2.3
+
+- hive_flutter 1.1.0
+
+- path_provider 2.1.4#### Pasos de Instalación1. **Descarga el APK** desde la sección [Releases](../../releases)- 📊 Visualizar estadísticas y análisis de costos
+
+
+
+**Navegación:**
+
+- go_router 14.0.0
+
+```bash2. **Activa instalación de fuentes desconocidas**:- 💾 Guardar proyectos localmente con persistencia
+
+**Generación de PDF:**
+
+- pdf 3.10.8# Clonar repositorio
+
+- printing 5.12.0
+
+git clone https://github.com/Oxidizerhack/MiObra-Facil.git   - Ajustes → Seguridad → Habilitar "Fuentes desconocidas"- 📄 Exportar presupuestos en formato PDF
+
+**Utilidades:**
+
+- intl 0.19.0cd MiObra-Facil
+
+- json_annotation 4.9.0
+
+   - O cuando intentes instalar, Android te pedirá permiso- 🌍 Calcular precios según región (La Paz, Cochabamba, Santa Cruz)
+
+**Desarrollo:**
+
+- build_runner 2.4.13# Instalar dependencias
+
+- json_serializable 6.8.0
+
+- flutter_lints 5.0.0flutter pub get3. **Instala el APK** desde tus descargas- 🏗️ Gestionar 26 tipos de trabajos en 3 categorías
+
+
+
+**Assets Nativos:**
+
+- flutter_native_splash 2.4.4
+
+- flutter_launcher_icons 0.13.1# Verificar dispositivo conectado4. **¡Listo!** Abre la app y comienza a crear presupuestos
+
+
+
+## Estructura del Proyectoflutter devices
+
+
+
+```---
+
+MiObra-Facil/
+
+├── lib/# Ejecutar aplicación
+
+│   ├── main.dart
+
+│   ├── router.dartflutter run### Opción 2: Compilar desde el Código Fuente
+
+│   ├── data/
+
+│   │   ├── work_catalog.dart```
+
+│   │   └── work_types.dart
+
+│   ├── models/## ✨ Características Principales
+
+│   │   ├── project_model.dart
+
+│   │   ├── job_model.dart#### Compilar APK de Producción
+
+│   │   └── work_type_model.dart
+
+│   ├── providers/#### Requisitos
+
+│   │   ├── project_provider.dart
+
+│   │   └── region_provider.dart```bash
+
+│   ├── screens/
+
+│   │   ├── home_screen.dart# Generar APK release### 🎯 Gestión de Proyectos
+
+│   │   ├── dashboard_screen.dart
+
+│   │   ├── calculator_screen.dartflutter build apk --release
+
+│   │   ├── add_project_screen.dart
+
+│   │   ├── edit_project_screen.dart- Flutter SDK 3.35.7 o superior- **CRUD Completo**: Crear, leer, actualizar y eliminar proyectos
+
+│   │   ├── project_detail_screen.dart
+
+│   │   └── select_item_screen.dart# El APK se encontrará en:
+
+│   ├── widgets/
+
+│   │   └── custom_cards.dart# build/app/outputs/flutter-apk/app-release.apk- Android Studio o VS Code- **Información Detallada**: Nombre del proyecto, cliente, región
+
+│   └── pdf_export_helper.dart
+
+├── assets/```
+
+│   ├── images/
+
+│   └── icons/- Android SDK con NDK 27.0.12077973- **Partidas Personalizables**: Agregar y eliminar trabajos específicos
+
+├── android/
+
+├── .github/workflows/Alternativamente, puede usar los scripts proporcionados:
+
+├── pubspec.yaml
+
+├── README.md- Dispositivo Android o emulador- **Cálculo Automático**: Totales por categoría y proyecto
+
+├── LICENSE
+
+├── CONTRIBUTING.md**Windows:**
+
+├── INSTALACION.md
+
+├── build-release.bat```cmd
+
+└── build-release.sh
+
+```build-release.bat
+
+
+
+## Catálogo P&C Enlace 07```#### Pasos### 📊 Dashboard Analítico
+
+
+
+La aplicación incluye 97 partidas actualizadas según el documento oficial P&C Enlace 07 de junio 2025, organizadas en 15 categorías:
+
+
+
+1. **Trabajos Preliminares** (11 items)**Linux/macOS:**- **Estadísticas Generales**: Total de proyectos, costos totales
+
+2. **Movimiento de Tierras** (5 items)
+
+3. **Obra Gruesa - Cimentación** (10 items)```bash
+
+4. **Obra Gruesa - Estructura** (12 items)
+
+5. **Obra Gruesa - Muros** (6 items)./build-release.sh```bash- **Gráficos por Categoría**: Obra Gruesa, Obra Fina, Instalaciones
+
+6. **Obra Gruesa - Cubiertas** (10 items)
+
+7. **Obra Fina - Cielorrasos** (2 items)```
+
+8. **Obra Fina - Revestimientos** (10 items)
+
+9. **Obra Fina - Techos** (3 items)# 1. Clona el repositorio- **Desglose Regional**: Análisis de costos por departamento
+
+10. **Obra Fina - Pisos** (9 items)
+
+11. **Obra Fina - Canalización** (3 items)## Tecnologías
+
+12. **Obra Fina - Impermeabilización** (2 items)
+
+13. **Obra Fina - Pintura** (7 items)git clone https://github.com/Oxidizerhack/MiObra-Facil.git- **Top 3 Proyectos**: Ranking de proyectos más costosos
+
+14. **Carpintería** (3 items)
+
+15. **Mesones y Topes** (1 item)### Framework y Lenguaje
+
+
+
+Cada partida incluye descripción detallada, unidad de medida y precio diferenciado por región (La Paz, Cochabamba, Santa Cruz).- **Flutter** 3.35.7 - Framework multiplataformacd MiObra-Facil
+
+
+
+## Uso- **Dart** 3.9.2 - Lenguaje de programación
+
+
+
+**Seleccionar Región:**### 💾 Persistencia de Datos
+
+- Usa el selector de región para elegir entre La Paz, Cochabamba o Santa Cruz
 
 ### Dependencias Principales
 
-# 2. Instala dependencias- **Base de Datos Local**: Implementación con Hive
+**Crear Proyecto:**
 
-```yaml
+- Toca el botón flotante (+) en la pantalla de Proyectos# 2. Instala dependencias- **Base de Datos Local**: Implementación con Hive
 
-dependencies:flutter pub get- **Almacenamiento Eficiente**: Sin conexión a internet requerida
+- Completa los datos del proyecto
 
-  flutter:
+- Guarda el proyecto```yaml
 
-    sdk: flutter- **TypeAdapters Generados**: Serialización automática
 
-  hive: ^2.2.3                    # Base de datos NoSQL
 
-  hive_flutter: ^1.1.0            # Integración Hive-Flutter# 3. Conecta tu dispositivo Android (modo desarrollador activado)
+**Agregar Partidas:**dependencies:flutter pub get- **Almacenamiento Eficiente**: Sin conexión a internet requerida
 
-  provider: ^6.0.5                # Gestión de estado
+- Abre el proyecto
+
+- Toca "Agregar Item"  flutter:
+
+- Selecciona categoría y partida
+
+- Ingresa la cantidad    sdk: flutter- **TypeAdapters Generados**: Serialización automática
+
+
+
+**Generar Presupuesto:**  hive: ^2.2.3                    # Base de datos NoSQL
+
+- Desde el detalle del proyecto, toca el icono de PDF
+
+- Comparte o imprime el presupuesto generado  hive_flutter: ^1.1.0            # Integración Hive-Flutter# 3. Conecta tu dispositivo Android (modo desarrollador activado)
+
+
+
+**Dashboard:**  provider: ^6.0.5                # Gestión de estado
+
+- Visualiza estadísticas generales y proyectos destacados
 
   go_router: ^14.0.0              # Sistema de navegaciónflutter devices### 🎨 Interfaz Moderna
 
-  pdf: ^3.10.8                    # Generación de PDFs
+**Calculadora:**
 
-  printing: ^5.12.0               # Impresión y vista previa- **Material Design 3**: UI/UX actualizado
-
-  path_provider: ^2.1.5           # Acceso a directorios del sistema
-
-  intl: ^0.18.1                   # Internacionalización# 4. Ejecuta la app- **Splash Screen Personalizado**: Logo y fondo de marca (3 segundos)
-
-```
-
-flutter run- **Tema Personalizado**: Colores naranja (#FF6B35) y azul (#004E89)
-
-### Arquitectura
-
-```- **Modo Oscuro**: Soporte para tema claro y oscuro
-
-- **Patrón de diseño**: Provider para gestión de estado
-
-- **Base de datos**: Hive (NoSQL, almacenamiento local)
-
-- **Navegación**: go_router con rutas declarativas
-
-- **Generación PDF**: dart_pdf con formato personalizado#### Compilar APK para instalación### 📄 Exportación PDF
+- Herramienta para cálculos rápidos  pdf: ^3.10.8                    # Generación de PDFs
 
 
 
-## Estructura del Proyecto- **Presupuestos Profesionales**: Generación de PDF detallado
+## Contribuir  printing: ^5.12.0               # Impresión y vista previa- **Material Design 3**: UI/UX actualizado
 
 
 
-``````bash- **Formato Boliviano**: Adaptado a estándares locales
+Las contribuciones son bienvenidas. Para contribuir:  path_provider: ^2.1.5           # Acceso a directorios del sistema
 
-lib/
+
+
+1. Haz fork del proyecto  intl: ^0.18.1                   # Internacionalización# 4. Ejecuta la app- **Splash Screen Personalizado**: Logo y fondo de marca (3 segundos)
+
+2. Crea una rama: `git checkout -b feature/nueva-funcionalidad`
+
+3. Realiza tus cambios: `git commit -m 'Agregar nueva funcionalidad'````
+
+4. Sube los cambios: `git push origin feature/nueva-funcionalidad`
+
+5. Abre un Pull Requestflutter run- **Tema Personalizado**: Colores naranja (#FF6B35) y azul (#004E89)
+
+
+
+Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.### Arquitectura
+
+
+
+## Licencia```- **Modo Oscuro**: Soporte para tema claro y oscuro
+
+
+
+Este proyecto está bajo la Licencia MIT. Consulta [LICENSE](LICENSE) para más detalles.- **Patrón de diseño**: Provider para gestión de estado
+
+
+
+## Contacto- **Base de datos**: Hive (NoSQL, almacenamiento local)
+
+
+
+Para preguntas o reportes de bugs, abre un [issue](https://github.com/CubeFreaKLab/MiObra-Facil/issues) en GitHub.- **Navegación**: go_router con rutas declarativas
+
+
+
+## Agradecimientos- **Generación PDF**: dart_pdf con formato personalizado#### Compilar APK para instalación### 📄 Exportación PDF
+
+
+
+Datos de precios basados en P&C Enlace 07 (Junio 2025).
+
+
+
+Desarrollado para profesionales de la construcción en Bolivia.## Estructura del Proyecto- **Presupuestos Profesionales**: Generación de PDF detallado
+
+
+
+---
+
+
+
+<div align="center">``````bash- **Formato Boliviano**: Adaptado a estándares locales
+
+  <p><strong>Mi Obra Fácil</strong> - Simplificando la gestión de proyectos de construcción</p>
+
+</div>lib/
+
 
 ├── main.dart                       # Punto de entrada# APK de producción (release)- **Logo y Marca**: Documentos personalizados
 
