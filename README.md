@@ -1,164 +1,326 @@
-<div align="center"><div align="center">
+<div align="center"><div align="center"><div align="center">
 
   <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400">
 
-    <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400" style="background-color: white; padding: 30px; border-radius: 10px;">
+    <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400">
 
-  # Mi Obra Fácil
+  <h1>Mi Obra Fácil</h1>
+
+      <img src="assets/images/logotipo.png" alt="Mi Obra Fácil" width="400" style="background-color: white; padding: 30px; border-radius: 10px;">
+
+  <p>Aplicación móvil para calcular presupuestos de construcción en Bolivia</p>
+
+  <p>Precios actualizados según catálogo P&C Enlace 07 (Junio 2025)</p>  # Mi Obra Fácil
+
+</div>
 
     
 
+---
+
   Aplicación móvil para calcular presupuestos de construcción en Bolivia
+
+## Descripción
 
     # Mi Obra Fácil
 
+Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
+
   Precios actualizados según catálogo P&C Enlace 07 (Junio 2025)
+
+## Características
 
 </div>  Aplicación móvil para calcular presupuestos de construcción en Bolivia, con precios actualizados según catálogo P&C Enlace 07 (Junio 2025).
 
+- Gestión completa de proyectos de construcción
 
+- Catálogo de 97 partidas organizadas en 15 categorías
 
----  **Aplicación móvil para calcular presupuestos de construcción en Bolivia**
+- Precios diferenciados para La Paz, Cochabamba y Santa Cruz
 
+- Calculadora integrada para estimaciones rápidas---  **Aplicación móvil para calcular presupuestos de construcción en Bolivia**
 
+- Dashboard con estadísticas de proyectos
+
+- Exportación de presupuestos a PDF
+
+- Almacenamiento local con Hive (sin necesidad de internet)
 
 ## Descripción  
-
-
-
-Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.  Precios actualizados según catálogo P&C Enlace 07 (Junio 2025)
-
-
-
-## Características Principales</div>## DescripciónAplicación móvil para calcular presupuestos de construcción en Bolivia, con precios actualizados según catálogo P&C Enlace 07 (Junio 2025).<div align="center">
-
-
-
-- Gestión de Proyectos: Crea y administra múltiples proyectos de construcción
-
-- Catálogo P&C Completo: 97 partidas organizadas en 15 categorías
-
-- Precios Diferenciados: Cotizaciones para La Paz, Cochabamba y Santa Cruz---
-
-- Calculadora Integrada: Herramienta para estimaciones rápidas
-
-- Dashboard Estadístico: Visualización de estadísticas de proyectos
-
-- Exportación a PDF: Genera presupuestos profesionales
-
-- Persistencia Local: Base de datos Hive para almacenamiento offline## Descripción**Mi Obra Fácil** es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
-
-
 
 ## Instalación
 
 
 
-### Descarga Directa (Recomendado)Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
+### Opción 1: Descarga Directa
 
-
+Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.  Precios actualizados según catálogo P&C Enlace 07 (Junio 2025)
 
 1. Ve a [Releases](https://github.com/CubeFreaKLab/MiObra-Facil/releases)
 
-2. Descarga el archivo APK de la versión más reciente
+2. Descarga el archivo APK más reciente
 
-3. Instala en tu dispositivo Android## Características Principales## Características Principales## ✨ Características![Mi Obra Fácil](assets/images/logo.png)
+3. Instala en tu dispositivo Android
 
-
+## Características Principales</div>## DescripciónAplicación móvil para calcular presupuestos de construcción en Bolivia, con precios actualizados según catálogo P&C Enlace 07 (Junio 2025).<div align="center">
 
 Para más detalles consulta [INSTALACION.md](INSTALACION.md)
 
 
 
-### Compilación desde Código Fuente- **Gestión de Proyectos**: Crea y administra múltiples proyectos de construcción con detalles completos
+### Opción 2: Compilar desde Código Fuente
+
+- Gestión de Proyectos: Crea y administra múltiples proyectos de construcción
+
+**Requisitos:**
+
+- Flutter SDK 3.35.7 o superior- Catálogo P&C Completo: 97 partidas organizadas en 15 categorías
+
+- Dart SDK 3.9.2 o superior
+
+- Android Studio con SDK 36.0.0- Precios Diferenciados: Cotizaciones para La Paz, Cochabamba y Santa Cruz---
 
 
 
-Requisitos:- **Catálogo P&C Completo**: 97 partidas organizadas en 15 categorías según el estándar P&C Enlace 07
+**Pasos:**- Calculadora Integrada: Herramienta para estimaciones rápidas
 
-- Flutter SDK 3.35.7 o superior
 
-- Dart SDK 3.9.2 o superior- **Precios Diferenciados**: Cotizaciones específicas para La Paz, Cochabamba y Santa Cruz- **Catálogo completo**: 97 partidas organizadas en 15 categorías
 
-- Android Studio con SDK 36.0.0
+```bash- Dashboard Estadístico: Visualización de estadísticas de proyectos
 
-- **Calculadora Integrada**: Herramienta de cálculo incorporada para estimaciones rápidas
+git clone https://github.com/CubeFreaKLab/MiObra-Facil.git
 
-Pasos:
+cd MiObra-Facil- Exportación a PDF: Genera presupuestos profesionales
 
-- **Dashboard Estadístico**: Visualización de estadísticas de proyectos con totales y promedios- **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
+flutter pub get
 
-```bash
-
-git clone https://github.com/CubeFreaKLab/MiObra-Facil.git- **Exportación a PDF**: Genera presupuestos profesionales con encabezado corporativo
-
-cd MiObra-Facil
-
-flutter pub get- **Persistencia Local**: Base de datos Hive para almacenamiento offline- **Almacenamiento local**: Base de datos Hive NoSQL para persistencia offline- 📊 **Catálogo completo**: 97 partidas organizadas en 15 categorías (trabajos preliminares, movimiento de tierras, obras gruesas, obras finas, carpintería)**Aplicación profesional para presupuestos de construcción en Bolivia**
-
-flutter run
+flutter run- Persistencia Local: Base de datos Hive para almacenamiento offline## Descripción**Mi Obra Fácil** es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
 
 ```
 
 
 
-Para compilar APK de release:## Instalación- **Exportación PDF**: Genera presupuestos profesionales con logotipo personalizado
+**Compilar APK:**
 
-
+## Instalación
 
 ```bash
 
 # Windows
 
-build-release.bat### Opción 1: Descarga Directa (Recomendado)- **Dashboard estadístico**: Visualiza métricas de tus proyectos- 🗺️ **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
+build-release.bat
 
-
+### Descarga Directa (Recomendado)Mi Obra Fácil es una herramienta diseñada para profesionales de la construcción en Bolivia que permite crear presupuestos detallados con precios diferenciados por región. La aplicación incluye un catálogo completo de 97 partidas basadas en el documento P&C Enlace 07 de junio 2025.
 
 # Linux/macOS
 
 chmod +x build-release.sh
 
-./build-release.sh1. Ve a la sección [Releases](https://github.com/CubeFreaKLab/MiObra-Facil/releases)- **Calculadora integrada**: Herramienta rápida para cálculos
+./build-release.sh
 
-```
+```1. Ve a [Releases](https://github.com/CubeFreaKLab/MiObra-Facil/releases)
 
-2. Descarga el archivo APK de la versión más reciente
 
-## Tecnologías
 
-3. Instala en tu dispositivo Android (permite instalación desde fuentes desconocidas)- **Material Design 3**: Interfaz moderna con paleta de colores naranja y azul- 💾 **Almacenamiento local**: Todos tus proyectos guardados en tu dispositivo con Hive[![Flutter Version](https://img.shields.io/badge/Flutter-3.24.4-02569B?logo=flutter)](https://flutter.dev)
+## Tecnologías2. Descarga el archivo APK de la versión más reciente
 
-- Flutter 3.35.7
+
+
+- Flutter 3.35.73. Instala en tu dispositivo Android## Características Principales## Características Principales## ✨ Características![Mi Obra Fácil](assets/images/logo.png)
 
 - Dart 3.9.2
 
 - Material Design 3
 
-- Provider 6.0.5Para instrucciones detalladas, consulta [INSTALACION.md](INSTALACION.md)
+- Provider 6.0.5
 
-- Hive 2.2.3
+- Hive 2.2.3Para más detalles consulta [INSTALACION.md](INSTALACION.md)
 
 - Go Router 14.0.0
 
 - PDF 3.10.8
 
-- Printing 5.12.0### Opción 2: Compilación desde Código Fuente## Capturas de Pantalla- 📄 **Exportación PDF**: Genera presupuestos profesionales con tu logotipo[![Dart Version](https://img.shields.io/badge/Dart-3.5.4-0175C2?logo=dart)](https://dart.dev)
+- Printing 5.12.0
+
+### Compilación desde Código Fuente- **Gestión de Proyectos**: Crea y administra múltiples proyectos de construcción con detalles completos
+
+## Estructura del Proyecto
 
 
+
+```
+
+MiObra-Facil/Requisitos:- **Catálogo P&C Completo**: 97 partidas organizadas en 15 categorías según el estándar P&C Enlace 07
+
+├── lib/
+
+│   ├── main.dart- Flutter SDK 3.35.7 o superior
+
+│   ├── router.dart
+
+│   ├── data/- Dart SDK 3.9.2 o superior- **Precios Diferenciados**: Cotizaciones específicas para La Paz, Cochabamba y Santa Cruz- **Catálogo completo**: 97 partidas organizadas en 15 categorías
+
+│   ├── models/
+
+│   ├── providers/- Android Studio con SDK 36.0.0
+
+│   ├── screens/
+
+│   ├── widgets/- **Calculadora Integrada**: Herramienta de cálculo incorporada para estimaciones rápidas
+
+│   └── pdf_export_helper.dart
+
+├── assets/Pasos:
+
+├── android/
+
+└── pubspec.yaml- **Dashboard Estadístico**: Visualización de estadísticas de proyectos con totales y promedios- **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
+
+```
+
+```bash
 
 ## Catálogo P&C
 
+git clone https://github.com/CubeFreaKLab/MiObra-Facil.git- **Exportación a PDF**: Genera presupuestos profesionales con encabezado corporativo
 
+97 partidas organizadas en 15 categorías:
+
+cd MiObra-Facil
+
+1. Trabajos Preliminares (11 items)
+
+2. Movimiento de Tierras (5 items)flutter pub get- **Persistencia Local**: Base de datos Hive para almacenamiento offline- **Almacenamiento local**: Base de datos Hive NoSQL para persistencia offline- 📊 **Catálogo completo**: 97 partidas organizadas en 15 categorías (trabajos preliminares, movimiento de tierras, obras gruesas, obras finas, carpintería)**Aplicación profesional para presupuestos de construcción en Bolivia**
+
+3. Obra Gruesa - Cimentación (10 items)
+
+4. Obra Gruesa - Estructura (12 items)flutter run
+
+5. Obra Gruesa - Muros (6 items)
+
+6. Obra Gruesa - Cubiertas (10 items)```
+
+7. Obra Fina - Cielorrasos (2 items)
+
+8. Obra Fina - Revestimientos (10 items)
+
+9. Obra Fina - Techos (3 items)
+
+10. Obra Fina - Pisos (9 items)Para compilar APK de release:## Instalación- **Exportación PDF**: Genera presupuestos profesionales con logotipo personalizado
+
+11. Obra Fina - Canalización (3 items)
+
+12. Obra Fina - Impermeabilización (2 items)
+
+13. Obra Fina - Pintura (7 items)
+
+14. Carpintería (3 items)```bash
+
+15. Mesones y Topes (1 item)
+
+# Windows
+
+## Uso
+
+build-release.bat### Opción 1: Descarga Directa (Recomendado)- **Dashboard estadístico**: Visualiza métricas de tus proyectos- 🗺️ **Precios regionales**: Tarifas diferenciadas para La Paz, Cochabamba y Santa Cruz
+
+**Crear Proyecto:**
+
+1. Toca el botón (+) en Proyectos
+
+2. Completa los datos
+
+3. Guarda# Linux/macOS
+
+
+
+**Agregar Partidas:**chmod +x build-release.sh
+
+1. Abre el proyecto
+
+2. Toca "Agregar Item"./build-release.sh1. Ve a la sección [Releases](https://github.com/CubeFreaKLab/MiObra-Facil/releases)- **Calculadora integrada**: Herramienta rápida para cálculos
+
+3. Selecciona categoría y partida
+
+4. Ingresa cantidad```
+
+
+
+**Generar PDF:**2. Descarga el archivo APK de la versión más reciente
+
+1. Desde el detalle del proyecto
+
+2. Toca el icono de PDF## Tecnologías
+
+3. Comparte o imprime
+
+3. Instala en tu dispositivo Android (permite instalación desde fuentes desconocidas)- **Material Design 3**: Interfaz moderna con paleta de colores naranja y azul- 💾 **Almacenamiento local**: Todos tus proyectos guardados en tu dispositivo con Hive[![Flutter Version](https://img.shields.io/badge/Flutter-3.24.4-02569B?logo=flutter)](https://flutter.dev)
+
+## Contribuir
+
+- Flutter 3.35.7
+
+Las contribuciones son bienvenidas:
+
+- Dart 3.9.2
+
+1. Fork el proyecto
+
+2. Crea una rama: `git checkout -b feature/nueva-funcionalidad`- Material Design 3
+
+3. Commit: `git commit -m 'Agregar funcionalidad'`
+
+4. Push: `git push origin feature/nueva-funcionalidad`- Provider 6.0.5Para instrucciones detalladas, consulta [INSTALACION.md](INSTALACION.md)
+
+5. Abre Pull Request
+
+- Hive 2.2.3
+
+Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
+
+- Go Router 14.0.0
+
+## Licencia
+
+- PDF 3.10.8
+
+MIT License. Ver [LICENSE](LICENSE) para más información.
+
+- Printing 5.12.0### Opción 2: Compilación desde Código Fuente## Capturas de Pantalla- 📄 **Exportación PDF**: Genera presupuestos profesionales con tu logotipo[![Dart Version](https://img.shields.io/badge/Dart-3.5.4-0175C2?logo=dart)](https://dart.dev)
+
+## Autores
+
+
+
+**Oxidizerhack & CubeFreakLab**
+
+## Catálogo P&C
+
+- GitHub Oxidizerhack: [@Oxidizerhack](https://github.com/Oxidizerhack)
+
+- GitHub CubeFreakLab: [@CubeFreakLab](https://github.com/CubeFreaKLab)
+
+- Repositorio: [MiObra-Facil](https://github.com/CubeFreaKLab/MiObra-Facil)
 
 97 partidas organizadas en 15 categorías:**Requisitos:**
 
+## Contacto
 
+
+
+Para reportar bugs o hacer preguntas, abre un [issue](https://github.com/CubeFreaKLab/MiObra-Facil/issues).
 
 1. Trabajos Preliminares (11 items)- Flutter SDK 3.35.7 o superior
 
+---
+
 2. Movimiento de Tierras (5 items)
 
-3. Obra Gruesa - Cimentación (10 items)- Dart SDK 3.9.2 o superior_Próximamente_- 📈 **Dashboard**: Visualiza estadísticas de tus proyectos[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<div align="center">
+
+  <p>Mi Obra Fácil - Simplificando la gestión de proyectos de construcción en Bolivia</p>3. Obra Gruesa - Cimentación (10 items)- Dart SDK 3.9.2 o superior_Próximamente_- 📈 **Dashboard**: Visualiza estadísticas de tus proyectos[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+</div>
 
 4. Obra Gruesa - Estructura (12 items)
 
